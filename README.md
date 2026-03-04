@@ -16,15 +16,15 @@ My work focuses on:
 
 
 ## Featured Work
-<!--
+
 ### Contract Data Pipeline → Executive Analytics
 Automated extraction, validation, and reporting pipeline supporting leadership visibility into contract and transactional activity.
 
 **Stack:** Python (Pandas, Selenium) • SQL • Power BI  
-🔗 Repo: [link]
+🔗 Repo: https://github.com/mk-estrada/contract-data-pipeline
 
 ---
-
+<!--
 ### 🚧 Revenue Decision Intelligence Dashboard (In Progress)
 End-to-end analytics product focused on improving pipeline predictability and forecast visibility.
 
