@@ -17,7 +17,7 @@ My work focuses on:
 
 ## Featured Work
 
-### 🚧 Revenue Decision Intelligence Dashboard (In Progress)
+### 🚧 Revenue Decision Intelligence Dashboard
 End-to-end analytics product focused on improving pipeline predictability and forecast visibility.
 
 **Stack:** SQL • Python • Power BI  
